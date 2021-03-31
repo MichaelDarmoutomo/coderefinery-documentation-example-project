@@ -27,7 +27,7 @@ pip install -r requirements.txt
 $ python3 analyse_spreadsheet.py
 >> Provide the name of the excel file you want to analyse:
 >> blablabla.xlsx
->> Date, Temperature
+>> ['Date', 'Temperature']
 >> 21.8
 ```
 

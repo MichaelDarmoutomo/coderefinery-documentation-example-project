@@ -22,5 +22,14 @@ pandas
 pip install -r requirements.txt
 ```
 
+# Example
+```{bash}
+$ python3 analyse_spreadsheet.py
+>> Provide the name of the excel file you want to analyse:
+>> blablabla.xlsx
+>> Date, Temperature
+>> 21.8
+```
+
 # License
 [Apache](https://github.com/MichaelDarmoutomo/coderefinery-documentation-example-project/blob/main/LICENSE)

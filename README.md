@@ -23,4 +23,4 @@ pip install -r requirements.txt
 ```
 
 # License
-Apache(https://github.com/MichaelDarmoutomo/coderefinery-documentation-example-project/blob/main/LICENSE)
+[Apache](https://github.com/MichaelDarmoutomo/coderefinery-documentation-example-project/blob/main/LICENSE)
